@@ -1,0 +1,1 @@
+# etcd-style-yaml
